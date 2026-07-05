@@ -1,0 +1,25 @@
+Act as an expert front-end web developer. Build a single-file prototype (HTML with embedded CSS inside a <style> tag) for my first website called "AI Foundation Class". 
+
+The website should look modern, clean, and tech-focused (using a dark mode aesthetic with neon blue/purple accents).
+
+Please include the following structural components:
+
+1. Navigation Bar:
+   - Left side: Logo/Brand name ("AI Foundation Class") and main navigation links (Home, About, Features).
+   - Center: A functional-looking "Search or Ask AI..." input bar with a search icon/button.
+   - Right side: User Profile / Avatar placeholder icon.
+
+2. Hero Section:
+   - A bold, welcoming headline: "Master the Fundamentals of Artificial Intelligence".
+   - A brief subtitle explaining that this is a learning hub for foundational AI concepts.
+   - A "Get Started" call-to-action button.
+
+3. Main Content Sections:
+   - "AI Foundational Concepts" Section: Create a 3-column grid layout with clean cards explaining core ideas (e.g., Machine Learning, Neural Networks, Deep Learning).
+   - "AI Information" Section: A clean text layout or split-screen section detailing the history and impact of AI.
+
+Design & UI Requirements:
+- Make it fully responsive (looks good on mobile and desktop).
+- Use modern typography (like Inter, Roboto, or Sans-Serif).
+- Ensure smooth hover effects on buttons, navigation links, and cards.
+- Keep all HTML and CSS in one single file so I can open it instantly in my browser.
